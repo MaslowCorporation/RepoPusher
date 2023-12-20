@@ -1,4 +1,4 @@
-# RepoPusher
+# RepoPusher 🌎
 
 Hello, adventurer !
 
