@@ -7,7 +7,7 @@ The purpose of this Github repository is very simple.
 First, clone it wherever you want all your work to be. Typically, in your Desktop folder, for convenience.
 
 ```
-git clone https://github.com/lanouvelleecole/RepoPusher
+git clone https://github.com/MaslowCorporation/RepoPusher
 ```
 
 Then place all your Github repositories inside this folder.
